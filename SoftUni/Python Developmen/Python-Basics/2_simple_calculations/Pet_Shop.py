@@ -1,3 +1,20 @@
+"""
+Simple Operations and Calculations - Lab
+07. Pet Shop
+Check: https://judge.softuni.bg/Contests/Compete/Index/1011#2
+Write a program that calculates the costs required to purchase dog food.
+The food is bought mainly for dogs, from a pet store, but sometimes their owner also buys for his neighbor's animals.
+One package of dog food costs BGN 2.50, and any other that is not for them costs BGN 4.
+Login:
+2 lines are read from the console:
+1. The number of dogs - an integer;
+2. The number of other animals - an integer.
+Exit:
+The following is printed on the console:
+"{final amount} lv."
+The result must be formatted to the second digit after the decimal point.
+"""
+
 #1. Read input data
 dogs_count = input()
 other_animals_count = input()
