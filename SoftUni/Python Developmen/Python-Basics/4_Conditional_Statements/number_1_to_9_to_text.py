@@ -1,3 +1,16 @@
+"""
+Conditional Statements - Lab
+Check: https://judge.softuni.bg/Contests/Practice/Index/1012#0
+04. Number 1 ... 9 to Text
+Condition:
+Write a program that reads an integer in the range [1… 9],
+entered by the user and writes it in English words.
+If the number is out of range, the program displays "number too big".
+Sample input and output
+5 five 1 one 9 nine 10 number too big
+"""
+
+
 num = int(input())
 if num < 1:
     print('zero')
