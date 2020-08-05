@@ -1,13 +1,13 @@
 """
 Simple Operations and Calculations - Exercise
-Проверка: https://judge.softuni.bg/Contests/Compete/Index/1160#0
+Check: https://judge.softuni.bg/Contests/Compete/Index/1160#0
 03. 2D Rectangle Area
-Условие:
-Правоъгълник е зададен с координатите на два от своите срещуположни ъгъла (x1, y1) – (x2, y2).
-Да се пресметнат площта и периметъра му.
-Входът се чете от конзолата. Числата x1, y1, x2 и y2 са дадени по едно на ред.
-Изходът се извежда на конзолата и трябва да съдържа два реда с по една число на всеки от тях – лицето и периметъра.
-Резултатът да се форматира до 2 знака след запетаята.
+Condition:
+A rectangle is given by the coordinates of two of its opposite angles (x1, y1) - (x2, y2).
+Calculate its area and perimeter.
+The input is read from the console. The numbers x1, y1, x2 and y2 are given one per line.
+The output is displayed on the console and must contain two rows with one number on each of them - the face and the perimeter.
+Format the result to 2 characters after the comma.
 """
 
 # 1. Reading cordinates
