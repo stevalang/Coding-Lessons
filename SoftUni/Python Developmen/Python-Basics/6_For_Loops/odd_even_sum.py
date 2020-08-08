@@ -1,0 +1,1 @@
+n = int(input())even_position = 0odd_position = 0for i in range(n):    number = int(input())    if (i+1) % 2 == 0:        even_position += number    else:        odd_position += numbersum_odd_even = even_positiondiff = abs(even_position - odd_position)if even_position == odd_position:    print(f"Yes\nSum = {sum_odd_even}")else:    print(f'No\nDiff = {diff}')
