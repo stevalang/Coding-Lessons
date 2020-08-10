@@ -1,3 +1,6 @@
+'''
+Baking Competition
+'''
 participants = int(input())
 
 total_bakery = 0
