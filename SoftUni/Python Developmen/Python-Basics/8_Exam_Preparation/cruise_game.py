@@ -1,3 +1,6 @@
+'''
+Cruise Game
+'''
 import math
 name = input()
 games = int(input())
