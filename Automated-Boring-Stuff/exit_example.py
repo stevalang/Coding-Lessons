@@ -1,3 +1,6 @@
+"""
+Exit the program
+"""
 import sys
 
 while True:
