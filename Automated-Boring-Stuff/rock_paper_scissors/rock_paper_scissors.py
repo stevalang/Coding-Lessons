@@ -1,3 +1,7 @@
+'''
+ROCK, PAPER, SCISSORS
+'''
+
 import random
 print("ROCK, PAPER, SCISSORS")
 wins = 0
