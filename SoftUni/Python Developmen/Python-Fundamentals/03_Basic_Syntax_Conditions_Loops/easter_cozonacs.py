@@ -1,3 +1,8 @@
+'''
+Since it’s Easter you have decided to make some cozonacs and exchange them for eggs.
+Create a program that calculates how much cozonacs you can make with the budget you have. First, you will receive your budget. Then, you will receive the price for 1 kg flour. Here is the recipe for one cozonac:
+'''
+
 budget = float(input())
 flour_kg_price = float(input())
 
