@@ -1,3 +1,7 @@
+'''
+Write program to enter an integer number of centuries and convert it to years, days, hours and minutes.
+'''
+
 centuries = int(input())
 years = centuries * 100
 days = int(years * 365.2422)
