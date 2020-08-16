@@ -1,3 +1,8 @@
+"""
+Write a program that receives a list of integer numbers and a number n. The number n represents the amount of numbers to remove from the list. You should remove the smallest ones
+
+"""
+
 import sys
 
 # COMPREHENSION
