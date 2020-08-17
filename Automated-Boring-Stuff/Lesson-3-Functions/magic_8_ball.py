@@ -1,6 +1,5 @@
 import random
 
-
 def get_answer(answer_number):
     if answer_number == 1:
         return 'It is certain'
@@ -20,6 +19,5 @@ def get_answer(answer_number):
         return 'Outlook not so good'
     elif answer_number == 9:
         return 'Very doubtful'
-
 
 print(get_answer(random.randint(1, 9)))
