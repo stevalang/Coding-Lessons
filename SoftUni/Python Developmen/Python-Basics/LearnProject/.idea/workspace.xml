@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e342d48-9ee7-4dab-ba95-5cb091edea72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UOt9skCNJEFAb8qyWi5WnX0lpk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e342d48-9ee7-4dab-ba95-5cb091edea72" name="Default Changelist" comment="" />
+      <created>1575239320363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575239320363</updated>
+      <workItem from="1575239321669" duration="129000" />
+      <workItem from="1575299909582" duration="786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="166" width="540" height="524" key="StructurePopup" timestamp="1575300051918">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="450" y="166" width="540" height="524" key="StructurePopup/0.23.1440.808@0.23.1440.808" timestamp="1575300051918" />
+    <state x="458" y="188" key="extract.method.dialog" timestamp="1575300683409">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="458" y="188" key="extract.method.dialog/0.23.1440.808@0.23.1440.808" timestamp="1575300683409" />
+    <state x="385" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1575299932712">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="385" y="155" width="670" height="676" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1575299932712" />
+  </component>
+</project>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="494cc914-6647-4251-81cc-d7f0f86ba9e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="First_Steps-in-Programing" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UOqyIOGLYNlqEYMHFfFYi1JkYP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunManager" selected="Application.ProjectsCreation">
+    <configuration name="ConcatenateData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcatenateData" />
+      <module name="First_Steps-in-Programing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo1" />
+      <module name="First_Steps-in-Programing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InchesТoCentimeters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InchesТoCentimeters" />
+      <module name="First_Steps-in-Programing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectsCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectsCreation" />
+      <module name="First_Steps-in-Programing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquareArea" />
+      <module name="First_Steps-in-Programing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo1" />
+      <item itemvalue="Application.ConcatenateData" />
+      <item itemvalue="Application.SquareArea" />
+      <item itemvalue="Application.InchesТoCentimeters" />
+      <item itemvalue="Application.ProjectsCreation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProjectsCreation" />
+        <item itemvalue="Application.InchesТoCentimeters" />
+        <item itemvalue="Application.SquareArea" />
+        <item itemvalue="Application.ConcatenateData" />
+        <item itemvalue="Application.Demo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="494cc914-6647-4251-81cc-d7f0f86ba9e4" name="Default Changelist" comment="" />
+      <created>1575238241963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575238241963</updated>
+      <workItem from="1575238243243" duration="1068000" />
+      <workItem from="1575239495003" duration="11664000" />
+      <workItem from="1575300706111" duration="97000" />
+      <workItem from="1575300852610" duration="272000" />
+      <workItem from="1575301228069" duration="13020000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575239120085">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.808@0.23.1440.808" timestamp="1575239120085" />
+    <state width="1398" height="154" key="GridCell.Tab.0.bottom" timestamp="1577205952993">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="154" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1577205952993" />
+    <state width="1398" height="154" key="GridCell.Tab.0.center" timestamp="1577205952992">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="154" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1577205952992" />
+    <state width="1398" height="154" key="GridCell.Tab.0.left" timestamp="1577205952992">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="154" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1577205952992" />
+    <state width="1398" height="154" key="GridCell.Tab.0.right" timestamp="1577205952993">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="154" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1577205952993" />
+    <state width="1398" height="258" key="GridCell.Tab.1.bottom" timestamp="1575239320162">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1575239320162" />
+    <state width="1398" height="258" key="GridCell.Tab.1.center" timestamp="1575239320161">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1575239320161" />
+    <state width="1398" height="258" key="GridCell.Tab.1.left" timestamp="1575239320161">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1575239320161" />
+    <state width="1398" height="258" key="GridCell.Tab.1.right" timestamp="1575239320162">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1575239320162" />
+    <state x="221" y="23" key="SettingsEditor" timestamp="1575301104055">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="221" y="23" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1575301104055" />
+    <state x="374" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1575301228187">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="374" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1575301228187" />
+    <state x="297" y="31" width="845" height="792" key="find.popup" timestamp="1575301992630">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="297" y="31" width="845" height="792" key="find.popup/0.23.1440.808@0.23.1440.808" timestamp="1575301992630" />
+  </component>
+</project>
