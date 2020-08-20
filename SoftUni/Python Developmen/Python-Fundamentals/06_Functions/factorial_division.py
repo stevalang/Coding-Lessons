@@ -1,3 +1,10 @@
+"""
+
+Write a function that receives two integer numbers. Calculate factorial of each number. Divide the first result by the second and print the division formatted to the second decimal point.
+
+"""
+
+
 def get_factorial(num):
     factorial = 1
     for i in range(1, num + 1):

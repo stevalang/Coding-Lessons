@@ -1,3 +1,7 @@
+"""
+You will receive a single number. You have to write a function that returns the sum of all even and all odd digits from that number as a single string like in the examples below. 
+"""
+
 # def odd_even_sum(numbers=input()):
 #     sum_even = []
 #     for num in numbers:
