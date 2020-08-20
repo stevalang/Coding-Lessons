@@ -1,3 +1,10 @@
+"""
+
+Create a function that receives three parameters and calculates a result depending on operator. The operator can be  'multiply', 'divide', 'add', 'subtract' . The input comes as three parameters – two integers and an operator as a string.
+
+"""
+
+
 def multiply(a, b):
     return a * b
 
