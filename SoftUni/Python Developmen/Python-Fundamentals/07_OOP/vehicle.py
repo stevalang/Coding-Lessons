@@ -1,3 +1,10 @@
+"""
+Create a class Vehicle. The __init__ method should receive: type, model, price. You should also set the owner to None. The class should have the following methods:
+buy(money, owner) - if the person has enough money and the vehicle has no owner, returns: "Successfully bought a {type}. Change: {change}" and sets the owner to the given one. If the money is not enough, return: "Sorry, not enough money". If the car already has an owner, return: "Car already sold"
+sell() - if the car has an owner, set it to None again. Otherwise, return: "Vehicle has no owner"
+__repr__() - returns "{model} {type} is owned by: {owner}" if the vehicle has an owner. Otherwise, return: "{model} {type} is on sale: {price}"
+"""
+
 class Vehicle:
 
     def __init__(self, type, model, price):
