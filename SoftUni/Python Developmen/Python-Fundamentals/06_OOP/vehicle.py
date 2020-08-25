@@ -39,6 +39,7 @@ price = 30000
 vehicle = Vehicle(vehicle_type, model, price)
 vehicle.buy(15000, "Peter")
 vehicle.buy(35000, "George")
+
 print(vehicle)
 vehicle.sell()
 print(vehicle)
