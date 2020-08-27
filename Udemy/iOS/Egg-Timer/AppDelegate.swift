@@ -1,36 +1,42 @@
-// You will need to apply everything you have learnt before to complete this challenge. But most importantly, we want you to get confortable with looking up how to do something you've never done before. Follow the 5 step process you learnt in the Xylophone module and build a beautiful egg timer app to make yourself proud. 
-
 import UIKit
+import AVFoundation
 
-@UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
+class ViewController: UIViewController {
+    
+    @IBOutlet weak var progressBar: UIProgressView!
+    @IBOutlet weak var titleLabel: UILabel!
+    let eggTimes = ["Soft": 3, "Medium": 4, "Hard": 7]
+    var timer = Timer()
+    var player: AVAudioPlayer!
+    var totalTime = 0
+    var secondsPassed = 0
+    
+    @IBAction func hardnessSelected(_ sender: UIButton) {
+        
+        timer.invalidate()
+        let hardness = sender.currentTitle!
+        totalTime = eggTimes[hardness]!
 
+        progressBar.progress = 0.0
+        secondsPassed = 0
+        titleLabel.text = hardness
 
-
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
-        return true
+        timer = Timer.scheduledTimer(timeInterval: 1.0, target:self, selector: #selector(updateTimer), userInfo:nil, repeats: true)
     }
-
-    func applicationWillTerminate(_ application: UIApplication) {
-        // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
+    
+    @objc func updateTimer() {
+        if secondsPassed < totalTime {
+            secondsPassed += 1
+            progressBar.progress = Float(secondsPassed) / Float(totalTime)
+            print(Float(secondsPassed) / Float(totalTime))
+        } else {
+            timer.invalidate()
+            titleLabel.text = "DONE!"
+            
+            let url = Bundle.main.url(forResource: "alarm_sound", withExtension: "mp3")
+            player = try! AVAudioPlayer(contentsOf: url!)
+            player.play()
+        }
     }
-
-    // MARK: UISceneSession Lifecycle
-
-    func application(_ application: UIApplication, configurationForConnecting connectingSceneSession: UISceneSession, options: UIScene.ConnectionOptions) -> UISceneConfiguration {
-        // Called when a new scene session is being created.
-        // Use this method to select a configuration to create the new scene with.
-        return UISceneConfiguration(name: "Default Configuration", sessionRole: connectingSceneSession.role)
-    }
-
-    func application(_ application: UIApplication, didDiscardSceneSessions sceneSessions: Set<UISceneSession>) {
-        // Called when the user discards a scene session.
-        // If any sessions were discarded while the application was not running, this will be called shortly after application:didFinishLaunchingWithOptions.
-        // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
-    }
-
-
+    
 }
-
-
