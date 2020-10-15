@@ -8,7 +8,7 @@ def get_sub_expressions(expression):
         elif ch == ')':
             start_index = opening_bracket_indices.pop()
             end_index = i
-            sub_expression.append(expression[start_index:end_index +1 ])
+            sub_expression.append(expression[start_index:end_index + 1 ])
 
     return sub_expression
 

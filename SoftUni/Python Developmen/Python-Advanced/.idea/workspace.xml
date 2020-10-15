@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37c52214-2cc8-4236-b9c7-a9f9f1106bcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Comprehension/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehension/.idea/Comprehension.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehension/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehension/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehension/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehension/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehension/01_ASCII_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehension/02_NoVowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehension/03_EvenMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehension/04_FlatteningMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehension/05_FilterNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehension/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comprehension/demo_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/.idea/Multidimensional-Lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/1_SumMatrixElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/2_SumMatrixColumns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/3_PrimaryDiagonal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/4_SymbolMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/5_SquareMaximumSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/Exercises/.idea/Exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/Exercises/2_TwoByTwoMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/Exercises/3_MaximalSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/Exercises/4_MatrixShuffling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/Exercises/5_SnakeMoves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/Exercises/6_KnightGames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/Exercises/7_Bombs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/Exercises/8_Miner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/Exercises/9_RadioactiveMutantVampireBunnies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/Exercises/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multidimensional-Lists/Exercises/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/.idea/Tuples-Sets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/1_CountSameValue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/2_Average_Student_Grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/3_RecordUniqueNames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/3_RecordingUniqueNames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/4.1_ParkingLot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/4_ParkingLot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/5_SoftUniParty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/Exercise/.idea/Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/Exercise/2_sets_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/Exercise/3_PeriodicTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/Exercise/4_CountSymbols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/Exercise/5_PhoneBook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/Exercise/6_LongestIntersection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/Exercise/7_BattleOfNames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples-Sets/set_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/1.3_reverse_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/10_truck_tour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/11_balanced_parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/2.1_matching_brackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/2.2_matching_brackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/3_supermarket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/4_water_dispenser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/5_hot_potato.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/6_reverse_number_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/7_max_min_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/8_fast_food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/9_KeyRevolver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/9_fashion_boutique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/stacks_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/ClassesDemo/ClassesDemo/Dragon.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Swift/ClassesDemo/ClassesDemo/Enemy.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Udemy/fromZeroToHeroPython/Generators/.idea/Generators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Udemy/fromZeroToHeroPython/Generators/gencomp_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Udemy/fromZeroToHeroPython/Generators/iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Udemy/fromZeroToHeroPython/Generators/squareNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Udemy/fromZeroToHeroPython/Generators/yieldRandomNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Udemy/fromZeroToHeroPython/WebScraping/.idea/WebScraping.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists_as_stacks_and_queues/2_matching_brackets.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/2_matching_brackets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists_as_stacks_and_queues/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists_as_stacks_and_queues/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Magic-8-Ball/Magic-8-Ball-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Magic-8-Ball/Magic-8-Ball-iOS13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Quizzler" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Quizzler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Swift/Xylophone/Xylophone-iOS13" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Swift/Xylophone/Xylophone-iOS13" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1iQiQ0apJciJzCp9wmA9enydd13" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37c52214-2cc8-4236-b9c7-a9f9f1106bcc" name="Default Changelist" comment="" />
+      <created>1601846196909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601846196909</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
