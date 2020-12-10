@@ -6,7 +6,7 @@ Here I'am uploading all the Coding Lessons I have taken so far.
 
 **Bolt item
 
--[ ] Check list
+-[] Check list
 @mention
 
 #975
